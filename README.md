@@ -31,8 +31,8 @@ Me llamo Aymara Dileo, tengo 30 años y una nena de 1 año y medio, vivo en Ciud
 
 Me gusta organizarme con las personas del barrio para generar espacios de participacion popular, y que debatamos acerca de las problematicas que tenemos y pensemos mecanismos para resolverlas por nosotros mismos. Constuir una sociedad mejor y mas justa.
 
-Me dedico a / Trabajo de ...
+Me dedico a organizar mi dia con mi nena, estudiar, cursar, militar, y ocuparme de la casa, por ahora, deje de trabajar cuando nacio mi nena por que  no podia pagar una niñera con mi sueldo, asi que preferi cuidarla yo y ponerme a estudiar para luego poder hacerlo
 
-Les dejo una imagen mía 
+Les dejo una imagen mia
 
 ![subir archivo de imagen](imagen.jpg)
