@@ -27,9 +27,9 @@ object programacionConObjetos {
 
 ### Presentacion Personal
 
-Me llamo ...
+Me llamo Aymara Dileo, tengo 30 años y una nena de 1 año y medio, vivo en Ciudadela.
 
-Me gusta ...
+Me gusta organizarme con las personas del barrio para generar espacios de participacion popular, y que debatamos acerca de las problematicas que tenemos y pensemos mecanismos para resolverlas por nosotros mismos. Constuir una sociedad mejor y mas justa.
 
 Me dedico a / Trabajo de ...
 
